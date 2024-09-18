@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-03-01-ConsApp", "CS01-Lesson-03-01-ConsApp\CS01-Lesson-03-01-ConsApp.csproj", "{51CE3841-9247-4952-B4CF-10DB9339E1E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS01-Lesson-03-02-ConsApp", "CS01-Lesson-03-02-ConsApp\CS01-Lesson-03-02-ConsApp.csproj", "{37BA4A51-C5C0-4C2C-9971-38CE1779A9E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{51CE3841-9247-4952-B4CF-10DB9339E1E5}.Debug|x86.Build.0 = Debug|x86
 		{51CE3841-9247-4952-B4CF-10DB9339E1E5}.Release|x86.ActiveCfg = Release|x86
 		{51CE3841-9247-4952-B4CF-10DB9339E1E5}.Release|x86.Build.0 = Release|x86
+		{37BA4A51-C5C0-4C2C-9971-38CE1779A9E4}.Debug|x86.ActiveCfg = Debug|x86
+		{37BA4A51-C5C0-4C2C-9971-38CE1779A9E4}.Debug|x86.Build.0 = Debug|x86
+		{37BA4A51-C5C0-4C2C-9971-38CE1779A9E4}.Release|x86.ActiveCfg = Release|x86
+		{37BA4A51-C5C0-4C2C-9971-38CE1779A9E4}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

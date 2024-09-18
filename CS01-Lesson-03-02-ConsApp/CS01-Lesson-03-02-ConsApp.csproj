@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{51CE3841-9247-4952-B4CF-10DB9339E1E5}</ProjectGuid>
+    <ProjectGuid>{37BA4A51-C5C0-4C2C-9971-38CE1779A9E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CS01_Lesson_03_01_ConsApp</RootNamespace>
-    <AssemblyName>CS01-Lesson-03-01-ConsApp</AssemblyName>
+    <RootNamespace>CS01_Lesson_03_02_ConsApp</RootNamespace>
+    <AssemblyName>CS01-Lesson-03-02-ConsApp</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CS01-Lesson-03-01-ConsApp.cs" />
+    <Compile Include="CS01-Lesson-03-02-ConsApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
